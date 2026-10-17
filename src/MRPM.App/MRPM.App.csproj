@@ -10,6 +10,12 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <RootNamespace>MRPM.App</RootNamespace>
+    <AssemblyName>MRPM</AssemblyName>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MRPM.Core\MRPM.Core.csproj" />
+  </ItemGroup>
 
 </Project>
