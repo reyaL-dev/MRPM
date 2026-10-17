@@ -1,3 +1,9 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MRPM.App/MRPM.App.csproj" />
+    <Project Path="src/MRPM.Core/MRPM.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MRPM.Core.Tests/MRPM.Core.Tests.csproj" />
+  </Folder>
 </Solution>
-1
